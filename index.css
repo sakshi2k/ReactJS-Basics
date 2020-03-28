@@ -1,0 +1,8 @@
+body{
+  width: 100%;
+}
+
+div.root{
+  display: inline-block;
+  text-align: center;
+}
